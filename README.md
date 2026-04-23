@@ -25,7 +25,7 @@ Modelo de classificação baseado em dados clínicos.
 - Ajuste de threshold com foco em recall  
 - Redução de falsos negativos em contexto crítico
 
-### Atualmente
+## Atualmente
 
 - Estudando e evoluindo em Data Science  
 - Desenvolvendo novos projetos (principalmente em fraude e risco)  
@@ -36,8 +36,6 @@ Modelo de classificação baseado em dados clínicos.
 - Estruturação de soluções com foco em desempenho e clareza  
 
 Tenho interesse especial em aplicações como detecção de fraudes, análise de risco e sistemas baseados em dados.
-
----
 
 ## Contato
 
