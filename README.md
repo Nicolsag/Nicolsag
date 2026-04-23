@@ -1,8 +1,12 @@
 # Nicolas Gomes
 
-## Data Science | Machine Learning | Python | SQL | Java
+Estudante de Data Science, focado em Machine Learning e análise de dados.
 
-Estudante de Data Science focado no desenvolvimento de soluções práticas envolvendo análise de dados, machine learning e programação.
+Gosto de construir projetos práticos, principalmente envolvendo classificação, tomada de decisão e problemas do mundo real.
+
+---
+
+## Tecnologias
 
 ## Tecnologias que eu uso no meu dia
 
@@ -14,12 +18,25 @@ Estudante de Data Science focado no desenvolvimento de soluções práticas envo
 </div><br/>
 
 ---
+---
 
-## Sobre mim
+## Projeto em destaque
 
-Tenho interesse em construir soluções completas, desde a manipulação de dados até a tomada de decisão baseada em modelos.
+### Detecção de Dengue com Machine Learning
 
-Atualmente desenvolvendo habilidades em:
+Projeto de classificação usando dados clínicos.
+
+- Testei diferentes modelos  
+- Ajustei hiperparâmetros  
+- Trabalhei com threshold para reduzir falsos negativos  
+- Foquei em decisões baseadas em custo de erro  
+
+---
+
+## Atualmente
+
+- Estudando e evoluindo em Data Science  
+- Desenvolvendo novos projetos (principalmente em fraude e risco)  
 
 - Machine Learning aplicado a problemas reais  
 - Análise de dados e modelagem  
@@ -30,49 +47,6 @@ Tenho interesse especial em aplicações como detecção de fraudes, análise de
 
 ---
 
-## Habilidades Técnicas
-
-### Linguagens
-- Python  
-- SQL  
-- Java  
-
-### Data Science & Machine Learning
-- Pandas, NumPy  
-- Scikit-learn  
-- LightGBM, XGBoost  
-- Modelos de classificação  
-- Avaliação de modelos (ROC AUC, Recall, Precisão)  
-- Otimização de hiperparâmetros  
-- Ajuste de threshold e análise de custo de erro  
-
-### Programação
-- Programação Orientada a Objetos (POO)  
-- Lógica de programação  
-- Estruturação de código e organização de projetos  
-
----
-
-## Projetos
-
-### Detecção de Dengue com Machine Learning
-Modelo de classificação baseado em dados clínicos.
-
-- Comparação de múltiplos modelos  
-- Otimização com RandomizedSearchCV  
-- Ajuste de threshold com foco em recall  
-- Redução de falsos negativos em contexto crítico  
-
----
-
-## Foco atual
-
-- Aprimorar projetos de Data Science com foco em aplicação prática  
-- Desenvolver projetos envolvendo análise de risco e fraude  
-- Evoluir em Java e integração com soluções backend  
-
----
-
 ## Contato
 
-- LinkedIn: (coloque aqui)
+- LinkedIn: [(coloque aqui)](https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/)
