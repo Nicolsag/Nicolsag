@@ -47,4 +47,4 @@ Tenho interesse especial em aplicações como detecção de fraudes, análise de
 
 - LinkedIn: [(Nicolas Juliao)](https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/)
 - Email: [(ncjuliao661@gmail.com)](mailto:ncjuliao661@gmail.com)
-- Celular: [(11 95024-1155)](11 95024-1155)
+- Celular: [(11 95024-1155)](1195024-1155)
