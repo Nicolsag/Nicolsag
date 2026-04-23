@@ -4,6 +4,15 @@
 
 Estudante de Data Science focado no desenvolvimento de soluções práticas envolvendo análise de dados, machine learning e programação.
 
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+  <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div><br/>
+
 ---
 
 ## Sobre mim
