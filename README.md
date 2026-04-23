@@ -1,21 +1,69 @@
-## Olá! Eu sou o Nicolas Julião 🖐️
+# Nicolas Gomes
 
-## Tecnologias que eu uso no meu dia
+## Data Science | Machine Learning | Python | SQL | Java
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+Estudante de Data Science focado no desenvolvimento de soluções práticas envolvendo análise de dados, machine learning e programação.
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+---
 
-### Últimos videos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+## Sobre mim
 
+Tenho interesse em construir soluções completas, desde a manipulação de dados até a tomada de decisão baseada em modelos.
+
+Atualmente desenvolvendo habilidades em:
+
+- Machine Learning aplicado a problemas reais  
+- Análise de dados e modelagem  
+- Programação orientada a objetos  
+- Estruturação de soluções com foco em desempenho e clareza  
+
+Tenho interesse especial em aplicações como detecção de fraudes, análise de risco e sistemas baseados em dados.
+
+---
+
+## Habilidades Técnicas
+
+### Linguagens
+- Python  
+- SQL  
+- Java  
+
+### Data Science & Machine Learning
+- Pandas, NumPy  
+- Scikit-learn  
+- LightGBM, XGBoost  
+- Modelos de classificação  
+- Avaliação de modelos (ROC AUC, Recall, Precisão)  
+- Otimização de hiperparâmetros  
+- Ajuste de threshold e análise de custo de erro  
+
+### Programação
+- Programação Orientada a Objetos (POO)  
+- Lógica de programação  
+- Estruturação de código e organização de projetos  
+
+---
+
+## Projetos
+
+### Detecção de Dengue com Machine Learning
+Modelo de classificação baseado em dados clínicos.
+
+- Comparação de múltiplos modelos  
+- Otimização com RandomizedSearchCV  
+- Ajuste de threshold com foco em recall  
+- Redução de falsos negativos em contexto crítico  
+
+---
+
+## Foco atual
+
+- Aprimorar projetos de Data Science com foco em aplicação prática  
+- Desenvolver projetos envolvendo análise de risco e fraude  
+- Evoluir em Java e integração com soluções backend  
+
+---
+
+## Contato
+
+- LinkedIn: (coloque aqui)
