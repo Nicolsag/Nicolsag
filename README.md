@@ -15,9 +15,9 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
 </div><br/>
 
 
-## Projeto em destaque
+## Projeto em destaque:
 
-## Detecção de Dengue com Machine Learning
+### Detecção de Dengue com Machine Learning
 Modelo de classificação baseado em dados clínicos.
 
 - Comparação de múltiplos modelos  
