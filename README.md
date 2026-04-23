@@ -20,13 +20,12 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
 ## Projeto em destaque
 
 ### Detecção de Dengue com Machine Learning
+Modelo de classificação baseado em dados clínicos.
 
-Projeto de classificação usando dados clínicos.
-
-- Testei diferentes modelos  
-- Ajustei hiperparâmetros  
-- Trabalhei com threshold para reduzir falsos negativos  
-- Foquei em decisões baseadas em custo de erro  
+- Comparação de múltiplos modelos  
+- Otimização com RandomizedSearchCV  
+- Ajuste de threshold com foco em recall  
+- Redução de falsos negativos em contexto crítico  
 
 ---
 
