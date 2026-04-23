@@ -49,4 +49,4 @@ Tenho interesse especial em aplicações como detecção de fraudes, análise de
 
 ## Contato
 
-- LinkedIn: [(coloque aqui)](https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/)
+- LinkedIn: [(Nicolas Juliao)](https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/)
