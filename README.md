@@ -23,9 +23,8 @@ Modelo de classificação baseado em dados clínicos.
 - Comparação de múltiplos modelos  
 - Otimização com RandomizedSearchCV  
 - Ajuste de threshold com foco em recall  
-- Redução de falsos negativos em contexto crítico  
-
----
+- Redução de falsos negativos em contexto crítico
+  
 
 ## Atualmente
 
