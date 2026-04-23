@@ -17,7 +17,7 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
 
 ---
 
-## [(Projeto em destaque)]([https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/](https://colab.research.google.com/drive/1V5_scElgR9ReoHiPwzVCMTZLINxCaMOh#scrollTo=mp0Qhvwl_AiC))
+## [(Projeto em destaque)]([https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/](https://colab.research.google.com/drive/1V5_scElgR9ReoHiPwzVCMTZLINxCaMOh#scrollTo=mp0Qhvwl_AiC))]
 
 ### Detecção de Dengue com Machine Learning
 Modelo de classificação baseado em dados clínicos.
