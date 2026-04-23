@@ -1,4 +1,4 @@
-# Nicolas Gomes
+# Nicolas Juliao
 
 Estudante de Data Science, focado em Machine Learning e análise de dados.
 
