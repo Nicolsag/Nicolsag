@@ -8,8 +8,6 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
 
 ## Tecnologias
 
-## Tecnologias que eu uso no meu dia
-
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
@@ -17,7 +15,6 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
----
 ---
 
 ## Projeto em destaque
