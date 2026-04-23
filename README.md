@@ -4,7 +4,6 @@ Estudante de Data Science, focado em Machine Learning e análise de dados.
 
 Gosto de construir projetos práticos, principalmente envolvendo classificação, tomada de decisão e problemas do mundo real.
 
----
 
 ## Tecnologias
 
@@ -15,7 +14,6 @@ Gosto de construir projetos práticos, principalmente envolvendo classificação
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
----
 
 ## [(Projeto em destaque)]([https://www.linkedin.com/in/nicolas-juli%C3%A3o-5994523a7/])
 
