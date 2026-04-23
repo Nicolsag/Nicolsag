@@ -2,7 +2,7 @@
 
 Estudante de Data Science, focado em Machine Learning e análise de dados.
 
-Gosto de construir projetos práticos, principalmente envolvendo classificação, tomada de decisão e problemas do mundo real.
+Gosto de construir projetos práticos, principalmente envolvendo classificação e tomada de decisão.
 
 
 ## Tecnologias
