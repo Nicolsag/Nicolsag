@@ -24,9 +24,8 @@ Modelo de classificação baseado em dados clínicos.
 - Otimização com RandomizedSearchCV  
 - Ajuste de threshold com foco em recall  
 - Redução de falsos negativos em contexto crítico
-  
 
-## Atualmente
+### Atualmente
 
 - Estudando e evoluindo em Data Science  
 - Desenvolvendo novos projetos (principalmente em fraude e risco)  
